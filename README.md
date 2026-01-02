@@ -65,7 +65,7 @@
         <tr><td style="color: #fafbfb;">Python</td></tr>
         <tr><td style="color: #fafbfb;" >SQL</td></tr>
       
-      </table>
+</table>
     </div>
     <div class="skill-table">
       <div class="skill-table-title">Libraries</div>
@@ -78,7 +78,7 @@
     <div class="skill-table">
       <div class="skill-table-title">Web</div>
       <table>
-        <tr><td style="color: #fafbfb;">FastAPI</td></tr>
+        <tr><td style="color: dark blue;">FastAPI</td></tr>
         <tr><td style="color: #fafbfb;">HTML</td></tr>
         <tr><td style="color: #fafbfb;">CSS</td></tr>
         <tr><td style="color: #fafbfb;">JavaScript</td></tr>
@@ -114,7 +114,6 @@
     
   </div>
 </section>
-
 <section id="internships" class="hero-box section-animate">
   <div class="hero-head" style="color: #28466c;">Internships</div>
   <div class="projects-list">
@@ -138,7 +137,6 @@
     </div>
   </div>
 </section>
-
 
 <section id="projects" class="hero-box section-animate">
   <div class="hero-head"style="color: #28466c;">Projects</div>
